@@ -1,0 +1,142 @@
++
+h1{
+    text-align: center;
+
+}
+#h1{
+    background-color: rgb(0,160,250);
+    color: white;
+    margin-bottom: 0px;
+    padding:10px ;
+}
+#h2{
+    padding: 25px;
+    border: 1px solid rgb(0, 37, 250);
+    margin-top: 0px;
+}
+
+#tu{
+    background-color: aqua;
+}
+li{
+    background-color: rgb(0,160,250);
+    color:white ;
+    width: 80px;
+    height: 22px;
+    margin-right: 10px;
+    margin-top: -5px;
+    text-align: center;
+}
+ul{
+    display: flex;
+    margin-bottom: 0px;
+    font-style: none;
+    list-style-type: none;
+    margin-top: 10px;
+    margin-left: -40px;
+}
+.square{
+    border: 1px solid black ;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+a{
+
+    color: #fff;
+    text-decoration: none;
+}
+
+#CV {
+   color: orangered
+}
+
+
+
+#lat{
+   
+    background-color: rgb(1, 13, 20);
+}
+p{
+    text-align: left;
+}
+.TechWeb{
+    background-color: rosybrown;
+
+}
+.DO{
+    background-color: blue;
+    
+}
+.IA{
+    background-color: violet;
+    
+}
+.ProPithon{
+    background-color: rgb(47, 255, 47);
+    
+}
+.DEV{
+    background-color: orangered;
+    
+}
+.Lead{
+    background-color: rosybrown;
+    
+}
+.Robo{
+    background-color:red ;
+    
+}
+.MI{
+    background-color: rgb(0, 238, 255);
+    
+}
+.Telecoms{
+    background-color: yellow;
+    
+}
+.Signal{
+    background-color: violet;
+    
+}
+.HACK{
+    background-color:chocolate;
+    
+}
+.PD{
+    background-color: gray;
+    
+}
+.mo{
+    background-color: green;
+    
+}
+
+.th{
+	background-color:rgb(0,160,250);
+}
+
+td{
+	width:800px;
+	height:30px;
+}
+img{
+	width:200px;
+	height:150px;
+}
+#mail{
+	color:blue;
+}
+
+
+#ol{
+    color:green;
+}
+#ap{
+    color:red;
+}
+
+footer{
+    text-align: right;
+}
